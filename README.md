@@ -40,3 +40,15 @@ To run the algorithm:
 
 ```bash
 python ChessKnightTourClassBased.py
+```
+
+## 🧪 Sample Output
+```bash
+solution # 49578 :
+36 33 24 13 10 3
+23 12 35 2 25 14
+34 1 32 11 4 9
+19 22 5 28 15 26
+6 31 20 17 8 29
+21 18 7 30 27 16
+```
